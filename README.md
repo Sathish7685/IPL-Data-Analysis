@@ -1,11 +1,5 @@
 # IPL-Data Analysis
 
-![image](https://user-images.githubusercontent.com/110474637/187039203-f9c3f9c1-27d5-4ebc-9085-df4377eb0fc7.png)
-
-![image](https://user-images.githubusercontent.com/110474637/187039227-d8db0d29-7a6c-44f5-948a-eabbd5a3b268.png)
-
-
-
 **The aim of the project is to analyze the data of the Indian Premier League (IPL) to gain insights into the game.**
 
 **Here are some specific goals of an IPL dataset project in Python:**
